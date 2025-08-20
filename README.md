@@ -1,7 +1,5 @@
 # HandRehab+ — Mobile Rehab App for Post-Operative Hand & Upper-Extremity Care
 
-> A patient- and therapist-facing mobile platform that drives at-home rehab adherence, measures recovery with on-device AI, and closes the loop with clinician dashboards and EHR integration. :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## Overview
